@@ -28,9 +28,9 @@ end
 result = 60 - value
 
 if value > 60
- puts "\n Você já passou de ano em #{subject} 
+ puts "\n Você já passou de ano em #{subject}"
 else
- puts "\n Faltam #{value} pontos para você passar de ano em #{subject}"
+ puts "\n Faltam #{result} pontos para você passar de ano em #{subject}"
 end
 
 when 0
